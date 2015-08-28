@@ -2,6 +2,7 @@
 GoodReads ranking
 
 Programming language: Java.
+
 Dependency: http://jsoup.org/ (You do need this dependency to get this work).
 
 The purpose of this program is to crawl the data from Amazon goodreads.com based on any bookshelf you like. (Change the bookshelf name in main.java) And produce a result in html. Some examples are put into the example output folder.
